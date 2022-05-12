@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 사내 코드개발
+
+## 🔭 I’m currently working on 
+- 😊😊
+
+
 <!--
 **geollll2/geollll2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
