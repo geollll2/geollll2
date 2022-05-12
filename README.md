@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## 사내 코드개발
+### 사내 코드개발
 
-## 🔭 I’m currently working on 
+### 🔭 I’m currently working on 
 - 😊😊
 
 
